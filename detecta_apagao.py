@@ -7,7 +7,7 @@ def detectar_apagao(frame, threshold=40):
     media_luz = np.mean(gray)
     return media_luz < threshold, media_luz
 
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture('video.mp4')
 apagao_detectado = False
 
 while True:
@@ -15,6 +15,7 @@ while True:
     if not ret:
         break
 
+    frame = cv2.rotate(frame, cv2.ROTATE_90_CLOCKWISE)  
     apagao, nivel = detectar_apagao(frame)
 
     print(f"Luminosidade: {nivel:.2f}")
