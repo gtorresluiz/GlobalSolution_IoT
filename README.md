@@ -3,6 +3,11 @@
 ## Link do Vídeo Explicativo
 ### https://youtu.be/3rdsJmfeDDA
 
+## Integrantes
+Eduardo Fedeli Souza RM:550132
+Otávio Vitoriano da Silva RM:552012
+Gabriel Torres Luiz RM: 98600
+
 ## 🧠 Descrição do problema
 
 Apagões podem causar grandes transtornos em locais como hospitais, centros de comando e residências. A falta de iluminação pode dificultar a locomoção, gerar riscos de segurança e impedir operações críticas.
