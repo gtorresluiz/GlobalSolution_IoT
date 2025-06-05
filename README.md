@@ -4,9 +4,9 @@
 ### https://youtu.be/3rdsJmfeDDA
 
 ## Integrantes
-Eduardo Fedeli Souza RM:550132
-Otávio Vitoriano da Silva RM:552012
-Gabriel Torres Luiz RM: 98600
+### Eduardo Fedeli Souza RM:550132
+### Otávio Vitoriano da Silva RM:552012
+### Gabriel Torres Luiz RM: 98600
 
 ## 🧠 Descrição do problema
 
