@@ -1,5 +1,8 @@
 # 💡 Sistema de Alerta para Falta de Energia 
 
+## Link do Vídeo Explicativo
+#  https://youtu.be/3rdsJmfeDDA
+
 ## 🧠 Descrição do problema
 
 Apagões podem causar grandes transtornos em locais como hospitais, centros de comando e residências. A falta de iluminação pode dificultar a locomoção, gerar riscos de segurança e impedir operações críticas.
@@ -40,3 +43,5 @@ Nosso sistema:
 
 ```bash
 pip install opencv-python numpy requests
+
+
